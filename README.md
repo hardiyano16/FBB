@@ -1,6 +1,5 @@
-# fbbrute
+# facebook-multibrute-force
 
-Script bukan buatanku.
+Berbagi itu indah 
 
-Ku hanya bantu gabungin dan bantu upload. Agar supaya mudah di install dan di input.
-Maaf kalau ada yg tidak berkenan.
+Saya hanya bantu gabung dan upload. Agar supaya mudah di install dan di input
